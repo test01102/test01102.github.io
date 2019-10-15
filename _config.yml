@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Type-on-Strap"
+baseurl: ""
 url: "https://test01102.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
