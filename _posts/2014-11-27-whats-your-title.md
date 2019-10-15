@@ -1,10 +1,13 @@
 ---
-layout: post
 title: What's your title
+date: 2014-11-27 00:00:00 Z
+tags:
+- Test
+- Lorem
+layout: post
 hide_title: true
 feature-img: assets/img/pexels/story.jpeg
 author: mhagnumdw
-tags: [Test, Lorem]
 ---
 
 This is an example of a post which includes a feature image that has a

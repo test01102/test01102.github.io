@@ -1,8 +1,13 @@
 ---
-layout: post
 title: Sample post
-tags: [A Tag, Test, Lorem, Ipsum]
-excerpt_separator: <!--more-->
+date: 2019-06-30 00:00:00 Z
+tags:
+- A Tag
+- Test
+- Lorem
+- Ipsum
+layout: post
+excerpt_separator: "<!--more-->"
 ---
 
 Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 

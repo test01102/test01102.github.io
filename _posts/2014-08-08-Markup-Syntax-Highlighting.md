@@ -1,8 +1,10 @@
 ---
+title: 'Markup: Syntax Highlighting'
+date: 2014-08-08 00:00:00 Z
+tags:
+- code
 layout: post
-title: "Markup: Syntax Highlighting"
 author: mmistakes
-tags: [code]
 ---
 
 From Michael's Rose [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting).

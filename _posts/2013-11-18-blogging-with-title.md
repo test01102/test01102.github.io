@@ -1,7 +1,12 @@
 ---
-layout: post
 title: Blogging with title
-tags: [Test, Ipsum, Markdown, Portfolio]
+date: 2013-11-18 00:00:00 Z
+tags:
+- Test
+- Ipsum
+- Markdown
+- Portfolio
+layout: post
 ---
 
 # I am a BIG title

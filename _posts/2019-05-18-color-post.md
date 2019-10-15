@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Color Post
-tags: [Test, Color, Markdown]
+date: 2019-05-18 00:00:00 Z
+tags:
+- Test
+- Color
+- Markdown
+layout: post
 color: brown
 author: sylhare
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 # What a colorful post!

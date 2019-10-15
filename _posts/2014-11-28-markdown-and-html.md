@@ -1,7 +1,10 @@
 ---
-layout: post
 title: Markdown and HTML
-tags: [Test, Markdown]
+date: 2014-11-28 00:00:00 Z
+tags:
+- Test
+- Markdown
+layout: post
 author: rohanchandra
 ---
 
